@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bandaru%20Yashwanth&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bandaru%20Yashwanth&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Actuarial%20Science&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### 👋 Hey, I'm Yashwanth — turning raw data into intelligent systems
+### 👋 Hey, I'm Yashwanth — Actuarial Science × Data Science = Rare Hybrid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaswanth-bandaru-026655257)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashwanth-data-sci)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthbandaru6@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Palanadu,_Andhra_Pradesh-00d4ff?style=for-the-badge)](https://github.com/Yashwanth-data-sci)
+[![Phone](https://img.shields.io/badge/+91_9606264925-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919606264925)
+
+📍 Palanadu, Andhra Pradesh &nbsp;|&nbsp; 🎓 B.Sc. Actuarial Science — Amity University, Noida &nbsp;|&nbsp; 🏆 Merit Scholarship | CGPA 7.8
 
 </div>
 
@@ -22,17 +24,21 @@
 ```python
 yashwanth = {
     "name"        : "Bandaru Yashwanth",
-    "role"        : "Aspiring ML Engineer",
-    "location"    : "Palanadu, Andhra Pradesh, India",
-    "education"   : "Data Science & ML (ExcelR)",
-    "focus"       : ["Machine Learning", "NLP", "Deep Learning", "Time Series"],
-    "goal"        : "Build production-grade ML systems that solve real problems",
-    "currently"   : "Building end-to-end ML projects & sharpening interview skills",
-    "fun_fact"    : "I once trained a model at 2AM and it actually worked 🎯"
+    "role"        : "Data Scientist | ML Engineer | Risk Analytics",
+    "education"   : "B.Sc. Actuarial Science — Amity University, Noida (CGPA: 7.8)",
+    "scholarship" : "Merit Scholarship Holder 🏆",
+    "internship"  : "Data & Financial Risk Analyst @ BAR Builders & Developers (2023)",
+    "domain_edge" : "Actuarial Science → Insurance, Risk, Credit & Financial Modelling",
+    "real_projects": ["AI Credit Risk Evaluation (ROC-AUC 0.84)", 
+                      "Fraud Detection System (Recall ↑18%)"],
+    "skills"      : ["Python", "SQL", "XGBoost", "SMOTE", "Power BI", "Tableau"],
+    "currently"   : "ExcelR Data Science & ML Certification (20 modules)",
+    "superpower"  : "I bridge Actuarial intuition with Data Science 🎯",
+    "target_roles": ["Data Scientist", "ML Engineer", "Risk Analyst", "Data Analyst"]
 }
 ```
 
-> 💡 *"Data is the new oil — I'm here to refine it into something powerful."*
+> 💡 *"Most data scientists know the algorithms. I also understand the risk — and that's rare."*
 
 ---
 
@@ -42,68 +48,36 @@ yashwanth = {
 <tr>
 <td width="50%">
 
-### 🏥 Disease Prediction System
-**End-to-End ML Web App**
+### 💳 AI-Driven Credit Risk Evaluation
+**Python · XGBoost · Power BI · Scikit-Learn**
 
-A full-stack ML application that predicts disease risk from patient data using ensemble models. Deployed with Flask + Streamlit.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**🎯 Accuracy: 94.2% | F1: 0.93**
-
-[📂 View Project](#) | [🌐 Live Demo](#)
-
-</td>
-<td width="50%">
-
-### 💬 Sentiment Analysis Engine
-**NLP Classification System**
-
-Real-time sentiment classifier for product reviews using TF-IDF + LSTM. Handles sarcasm detection and multi-class sentiment.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=flat)
-
-**🎯 Accuracy: 91.5% | AUC: 0.96**
-
-[📂 View Project](#) | [🌐 Live Demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Stock Price Forecasting
-**Time Series with LSTM**
-
-End-to-end forecasting pipeline using ARIMA + LSTM hybrid model. Includes interactive Plotly dashboard for visualization.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-**🎯 RMSE: 4.2 | MAPE: 3.8%**
-
-[📂 View Project](#) | [📊 Dashboard](#)
-
-</td>
-<td width="50%">
-
-### 🛒 Customer Churn Predictor
-**ML Classification Pipeline**
-
-XGBoost-powered churn prediction with SHAP explainability, feature engineering pipeline, and REST API endpoint.
+Analysed **10,000+ financial records** with full EDA and feature engineering. Built classification pipeline achieving **ROC-AUC of 0.84**, reducing false credit approvals. Interactive Power BI dashboard for risk segmentation by customer tier. Applied actuarial risk principles for business interpretation.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat)
 
-**🎯 Accuracy: 92.8% | ROC-AUC: 0.97**
+**🎯 ROC-AUC: 0.84 | Dataset: 10K+ records**
 
-[📂 View Project](#) | [🔗 API Docs](#)
+[📂 View Project](#) &nbsp; [📊 Dashboard](#)
+
+</td>
+<td width="50%">
+
+### 🔍 Fraud Detection & Anomaly Analysis
+**Python · XGBoost · SMOTE · SQL**
+
+Processed high-volume transaction data to detect fraud patterns. Resolved class imbalance using **SMOTE — improving fraud recall by 18%**, directly reducing financial exposure. Engineered real-time risk-scoring framework. **Production-ready** for fintech/insurance deployment.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-8E44AD?style=flat)
+
+**🎯 Fraud Recall ↑18% | Production-Ready**
+
+[📂 View Project](#) &nbsp; [📓 Notebook](#)
 
 </td>
 </tr>
@@ -119,39 +93,50 @@ XGBoost-powered churn prediction with SHAP explainability, feature engineering p
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R_(Basic)-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Machine Learning**
+**Machine Learning & Stats**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-8E44AD?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_(Learning)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Deep Learning & NLP**
+**Visualisation & BI**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Deployment & Visualization**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Tools**
+**Tools & Cloud**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3_EC2_(Learning)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Domain Expertise**
+
+![Actuarial](https://img.shields.io/badge/Actuarial_Science-1F4E79?style=for-the-badge)
+![Risk](https://img.shields.io/badge/Credit_Risk_Analytics-C0392B?style=for-the-badge)
+![BFSI](https://img.shields.io/badge/BFSI_Domain-27AE60?style=for-the-badge)
+![FinTech](https://img.shields.io/badge/Fraud_Detection-E74C3C?style=for-the-badge)
 
 </div>
+
+---
+
+## 💼 Work Experience
+
+**🏢 Data & Financial Risk Analyst Intern** &nbsp;|&nbsp; BAR Builders & Developers &nbsp;|&nbsp; *May – July 2023*
+
+- 📉 Conducted financial risk assessments on operational data → identified cost inefficiencies saving **12%** in process overhead
+- 📊 Prepared structured analytical reports for senior stakeholders, translating raw data into business recommendations
+- 📋 Developed Excel-based KPI dashboards to track operational performance and surface bottlenecks
 
 ---
 
@@ -172,36 +157,36 @@ XGBoost-powered churn prediction with SHAP explainability, feature engineering p
 
 ---
 
-## 🎯 What I'm Working On
-
-- 🔨 Building a **real-time fraud detection system** using streaming data + XGBoost
-- 📖 Deepening knowledge of **MLOps** — model monitoring, CI/CD for ML pipelines
-- 💪 Grinding **SQL** on LeetCode (currently solving medium-hard problems)
-- 🌐 Learning **FastAPI** for serving ML models as production REST APIs
-
----
-
-## 📈 ML Skills Radar
+## 🏆 Why I'm Different — My Unfair Advantage
 
 ```
-Machine Learning     ████████████████████  90%
-Python / Pandas      ███████████████████░  85%
-Deep Learning        ████████████████░░░░  75%
-NLP                  ████████████████░░░░  75%
-SQL                  ██████████████░░░░░░  70%
-MLOps / Deployment   ████████████░░░░░░░░  60%
+🎓 Actuarial Science + Data Science   →  Rare hybrid, highly valued in BFSI & InsurTech
+💳 Credit Risk + Fraud Detection      →  Domain-specific projects, not Titanic/Iris datasets
+📊 Raw Data → EDA → Model → Dashboard →  Full end-to-end analytics pipeline experience
+🏅 Merit Scholarship @ Amity Noida   →  Consistent academic performer (CGPA 7.8)
+☁️ AWS Learning in Progress           →  Building cloud-ready data engineering skills
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Currently Building
+
+- 🤖 Deep Learning & NLP projects (ExcelR 20-module certification)
+- ☁️ AWS S3 + EC2 for cloud-based ML deployment
+- 💪 Advanced SQL — CTEs, window functions, complex joins
+- 📈 More domain projects in BFSI / InsurTech / FinTech
+
+---
+
+## 🤝 Open to Opportunities
 
 <div align="center">
 
-I'm actively looking for **ML Engineer / Data Scientist** roles. If you're working on something exciting in AI/ML — let's talk!
+Looking for **Data Scientist · ML Engineer · Risk Analyst · Data Analyst** roles
+— especially in **BFSI · InsurTech · FinTech · Risk Analytics**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaswanth-bandaru-026655257)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthbandaru6@gmail.com)
+[![Email](https://img.shields.io/badge/yashwanthbandaru6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthbandaru6@gmail.com)
 
 </div>
 
@@ -211,7 +196,6 @@ I'm actively looking for **ML Engineer / Data Scientist** roles. If you're worki
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
-*⭐ If you find my projects useful, consider giving them a star — it motivates me to build more!*
+*⭐ If you find my projects helpful, a star means a lot — it keeps me building!*
 
 </div>
-
