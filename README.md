@@ -171,7 +171,7 @@ Processed high-volume transaction data to detect fraud patterns. Resolved class 
 
 ## 🎯 Currently Building
 
-- 🤖 Deep Learning & NLP projects (ExcelR 20-module certification)
+- 🤖 Deep Learning, NLP projects , agentic AI
 - ☁️ AWS S3 + EC2 for cloud-based ML deployment
 - 💪 Advanced SQL — CTEs, window functions, complex joins
 - 📈 More domain projects in BFSI / InsurTech / FinTech
